@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 2e524fb9dcceb514b9eb728c646292bf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bandit_ball.swf_Bandit_1_action4_66x73_0
+    21300002: bandit_ball.swf_Bandit_1_action4_66x73_1
+    21300004: bandit_ball.swf_Bandit_1_action4_66x73_2
+    21300006: bandit_ball.swf_Bandit_1_action4_66x73_3
+    21300008: bandit_ball.swf_Bandit_1_action4_66x73_4
+    21300010: bandit_ball.swf_Bandit_1_action4_66x73_5
+    21300012: bandit_ball.swf_Bandit_1_action4_66x73_6
+    21300014: bandit_ball.swf_Bandit_1_action4_66x73_7
+    21300016: bandit_ball.swf_Bandit_1_action4_66x73_8
+    21300018: bandit_ball.swf_Bandit_1_action4_66x73_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 439
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 439
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 439
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 439
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 439
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 439
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 366
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_action4_66x73_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 366
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

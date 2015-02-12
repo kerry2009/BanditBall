@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: d89b79afc49dc044b87d9e40e159f12a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bandit_ball.swf_Bandit_1_idle_50x79_0
+    21300002: bandit_ball.swf_Bandit_1_idle_50x79_1
+    21300004: bandit_ball.swf_Bandit_1_idle_50x79_2
+    21300006: bandit_ball.swf_Bandit_1_idle_50x79_3
+    21300008: bandit_ball.swf_Bandit_1_idle_50x79_4
+    21300010: bandit_ball.swf_Bandit_1_idle_50x79_5
+    21300012: bandit_ball.swf_Bandit_1_idle_50x79_6
+    21300014: bandit_ball.swf_Bandit_1_idle_50x79_7
+    21300016: bandit_ball.swf_Bandit_1_idle_50x79_8
+    21300018: bandit_ball.swf_Bandit_1_idle_50x79_9
+    21300020: bandit_ball.swf_Bandit_1_idle_50x79_10
+    21300022: bandit_ball.swf_Bandit_1_idle_50x79_11
+    21300024: bandit_ball.swf_Bandit_1_idle_50x79_12
+    21300026: bandit_ball.swf_Bandit_1_idle_50x79_13
+    21300028: bandit_ball.swf_Bandit_1_idle_50x79_14
+    21300030: bandit_ball.swf_Bandit_1_idle_50x79_15
+    21300032: bandit_ball.swf_Bandit_1_idle_50x79_16
+    21300034: bandit_ball.swf_Bandit_1_idle_50x79_17
+    21300036: bandit_ball.swf_Bandit_1_idle_50x79_18
+    21300038: bandit_ball.swf_Bandit_1_idle_50x79_19
+    21300040: bandit_ball.swf_Bandit_1_idle_50x79_20
+    21300042: bandit_ball.swf_Bandit_1_idle_50x79_21
+    21300044: bandit_ball.swf_Bandit_1_idle_50x79_22
+    21300046: bandit_ball.swf_Bandit_1_idle_50x79_23
+    21300048: bandit_ball.swf_Bandit_1_idle_50x79_24
+    21300050: bandit_ball.swf_Bandit_1_idle_50x79_25
+    21300052: bandit_ball.swf_Bandit_1_idle_50x79_26
+    21300054: bandit_ball.swf_Bandit_1_idle_50x79_27
+    21300056: bandit_ball.swf_Bandit_1_idle_50x79_28
+    21300058: bandit_ball.swf_Bandit_1_idle_50x79_29
+    21300060: bandit_ball.swf_Bandit_1_idle_50x79_30
+    21300062: bandit_ball.swf_Bandit_1_idle_50x79_31
+    21300064: bandit_ball.swf_Bandit_1_idle_50x79_32
+    21300066: bandit_ball.swf_Bandit_1_idle_50x79_33
+    21300068: bandit_ball.swf_Bandit_1_idle_50x79_34
+    21300070: bandit_ball.swf_Bandit_1_idle_50x79_35
+    21300072: bandit_ball.swf_Bandit_1_idle_50x79_36
+    21300074: bandit_ball.swf_Bandit_1_idle_50x79_37
+    21300076: bandit_ball.swf_Bandit_1_idle_50x79_38
+    21300078: bandit_ball.swf_Bandit_1_idle_50x79_39
+    21300080: bandit_ball.swf_Bandit_1_idle_50x79_40
+    21300082: bandit_ball.swf_Bandit_1_idle_50x79_41
+    21300084: bandit_ball.swf_Bandit_1_idle_50x79_42
+    21300086: bandit_ball.swf_Bandit_1_idle_50x79_43
+    21300088: bandit_ball.swf_Bandit_1_idle_50x79_44
+    21300090: bandit_ball.swf_Bandit_1_idle_50x79_45
+    21300092: bandit_ball.swf_Bandit_1_idle_50x79_46
+    21300094: bandit_ball.swf_Bandit_1_idle_50x79_47
+    21300096: bandit_ball.swf_Bandit_1_idle_50x79_48
+    21300098: bandit_ball.swf_Bandit_1_idle_50x79_49
+    21300100: bandit_ball.swf_Bandit_1_idle_50x79_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 433
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 354
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 275
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 196
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_Bandit_1_idle_50x79_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 59d34c87c3702e347ab9b74890487f9b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bandit_ball.swf_hero_airattack_276x388_0
+    21300002: bandit_ball.swf_hero_airattack_276x388_1
+    21300004: bandit_ball.swf_hero_airattack_276x388_2
+    21300006: bandit_ball.swf_hero_airattack_276x388_3
+    21300008: bandit_ball.swf_hero_airattack_276x388_4
+    21300010: bandit_ball.swf_hero_airattack_276x388_5
+    21300012: bandit_ball.swf_hero_airattack_276x388_6
+    21300014: bandit_ball.swf_hero_airattack_276x388_7
+    21300016: bandit_ball.swf_hero_airattack_276x388_8
+    21300018: bandit_ball.swf_hero_airattack_276x388_9
+    21300020: bandit_ball.swf_hero_airattack_276x388_10
+    21300022: bandit_ball.swf_hero_airattack_276x388_11
+    21300024: bandit_ball.swf_hero_airattack_276x388_12
+    21300026: bandit_ball.swf_hero_airattack_276x388_13
+    21300028: bandit_ball.swf_hero_airattack_276x388_14
+    21300030: bandit_ball.swf_hero_airattack_276x388_15
+    21300032: bandit_ball.swf_hero_airattack_276x388_16
+    21300034: bandit_ball.swf_hero_airattack_276x388_17
+    21300036: bandit_ball.swf_hero_airattack_276x388_18
+    21300038: bandit_ball.swf_hero_airattack_276x388_19
+    21300040: bandit_ball.swf_hero_airattack_276x388_20
+    21300042: bandit_ball.swf_hero_airattack_276x388_21
+    21300044: bandit_ball.swf_hero_airattack_276x388_22
+    21300046: bandit_ball.swf_hero_airattack_276x388_23
+    21300048: bandit_ball.swf_hero_airattack_276x388_24
+    21300050: bandit_ball.swf_hero_airattack_276x388_25
+    21300052: bandit_ball.swf_hero_airattack_276x388_26
+    21300054: bandit_ball.swf_hero_airattack_276x388_27
+    21300056: bandit_ball.swf_hero_airattack_276x388_28
+    21300058: bandit_ball.swf_hero_airattack_276x388_29
+    21300060: bandit_ball.swf_hero_airattack_276x388_30
+    21300062: bandit_ball.swf_hero_airattack_276x388_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bandit_ball.swf_hero_airattack_276x388_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1660
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1660
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1660
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1660
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_4
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1660
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1660
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_6
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1660
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1272
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_9
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1272
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_10
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1272
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_11
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1272
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_12
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1272
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_13
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1272
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 884
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_16
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 884
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 884
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_18
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 884
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_19
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 884
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_20
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 884
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 496
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 496
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_24
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 496
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_25
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 496
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 496
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_27
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 496
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 108
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_30
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 108
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_hero_airattack_276x388_31
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 108
+        width: 276
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
