@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 4dcb242b103e5284abcd4830e972e6c7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_0
+    21300002: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_1
+    21300004: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_2
+    21300006: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_3
+    21300008: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_4
+    21300010: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_5
+    21300012: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_6
+    21300014: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_7
+    21300016: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_8
+    21300018: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_9
+    21300020: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_10
+    21300022: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_11
+    21300024: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_12
+    21300026: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_13
+    21300028: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_14
+    21300030: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_15
+    21300032: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_16
+    21300034: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_17
+    21300036: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_18
+    21300038: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_19
+    21300040: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_20
+    21300042: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_21
+    21300044: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_22
+    21300046: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_23
+    21300048: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_24
+    21300050: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_25
+    21300052: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 883
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_15
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_17
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 742
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_23
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_24
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_25
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_ENEMY_DIE_BLOOD_113x141_26
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 601
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

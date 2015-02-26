@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 583fbce9df7efd74288ab2bacfba46c2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_0
+    21300002: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_1
+    21300004: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_2
+    21300006: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_3
+    21300008: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_4
+    21300010: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_5
+    21300012: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_6
+    21300014: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_7
+    21300016: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_8
+    21300018: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_9
+    21300020: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_10
+    21300022: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_11
+    21300024: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_12
+    21300026: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_13
+    21300028: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_14
+    21300030: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_15
+    21300032: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_16
+    21300034: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 430
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 430
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 430
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 348
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 348
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 266
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 266
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 266
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 184
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 184
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 184
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_FX_GROUNDBLOOD2_117x82_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 102
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

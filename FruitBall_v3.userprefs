@@ -1,8 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\wowGame\Assets\LiquidPhysics\Scripts\DynamicParticle.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.cs">
     <Files>
-      <File FileName="..\wowGame\Assets\LiquidPhysics\Scripts\DynamicParticle.cs" Line="96" Column="38" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="16" Column="48" />
+      <File FileName="Assets\Scripts\Geek.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\MovableGameObject.cs" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\CloudSpawner.cs" Line="27" Column="24" />
+      <File FileName="Assets\Scripts\RangeSpawner.cs" Line="101" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

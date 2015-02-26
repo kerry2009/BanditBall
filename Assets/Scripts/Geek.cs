@@ -27,7 +27,14 @@ public class Geek : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D other) {
+		Enemy enemy = other.gameObject.GetComponent<Enemy> ();
 
+		if (enemy && !enemy.isDead) {
+			enemy.isDead = true;
+			enemy.moveYSpeed = -0.1f;
+			enemy.moveXSpeed *= 0.5f;
+			speedY += 0.4f;
+		}
 	}
 
 	void FixedUpdate() {
@@ -39,7 +46,7 @@ public class Geek : MonoBehaviour {
 		moveVect.y = transform.position.y;
 		moveVect.z = transform.position.z;
 		
-		speedY -= gameManager.gravity;
+		speedY += gameManager.gravity;
 
 		// check hit floor
 		if (moveVect.y - circleCollider2d.radius < floor.position.y) {

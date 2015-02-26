@@ -52,10 +52,16 @@
      <Compile Include="Assets\Scripts\ArenaGameManager.cs" />
      <Compile Include="Assets\Scripts\ChooseItemFrame.cs" />
      <Compile Include="Assets\Scripts\Cloud.cs" />
-     <Compile Include="Assets\Scripts\CloudManager.cs" />
+     <Compile Include="Assets\Scripts\CloudSpawner.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\EnemySpawner.cs" />
      <Compile Include="Assets\Scripts\EventTriggerExtension.cs" />
+     <Compile Include="Assets\Scripts\FloorEnemySpawner.cs" />
      <Compile Include="Assets\Scripts\Geek.cs" />
      <Compile Include="Assets\Scripts\Hero.cs" />
+     <Compile Include="Assets\Scripts\MovableGameObject.cs" />
+     <Compile Include="Assets\Scripts\RangeSpawner.cs" />
+     <Compile Include="Assets\Scripts\SkyEnemySpawner.cs" />
      <Compile Include="Assets\UI\HomePanelController.cs" />
      <Compile Include="Assets\UI\NaviMapButton.cs" />
      <Compile Include="Assets\UI\NaviMapController.cs" />

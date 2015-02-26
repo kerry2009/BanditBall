@@ -21,7 +21,8 @@ public class ArenaGameManager : MonoBehaviour {
 	public Transform floor;
 	public Transform bgSky;
 	public Transform bgStars;
-	public Transform cloudLevel1;
+	public Transform coloudMagr;
+	public Transform enemyMagr;
 
 	public Transform followObject;
 
@@ -38,7 +39,7 @@ public class ArenaGameManager : MonoBehaviour {
 
 	private Vector2 lastCameraPos;
 
-	public float gravity = 0f;
+	public float gravity;
 
 	public Transform skyVanishiStart;
 	public Transform skyVanishiEnd;
@@ -46,8 +47,8 @@ public class ArenaGameManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		resposeMouseClick = true;
 		gravity = 0f;
+		resposeMouseClick = true;
 		lastCameraPos = new Vector2 (mainCamera.transform.position.x, mainCamera.transform.position.y);
 	}
 	
@@ -122,7 +123,8 @@ public class ArenaGameManager : MonoBehaviour {
 		moveBackGround (bgFront, offsetX, 0, offsetX * bgFrontScrollRatio, 0);
 		moveBackGround (bgSky, offsetX, offsetY, 0, 0);
 		moveBackGround (bgStars, offsetX, offsetY, offsetX, offsetY);
-		moveBackGround (cloudLevel1, offsetX, 0, 0, 0);
+		moveBackGround (coloudMagr, offsetX, 0, 0, 0);
+		moveBackGround (enemyMagr, offsetX, 0, 0, 0);
 	}
 
 	private Vector3 transPos = new Vector3 ();
@@ -183,7 +185,7 @@ public class ArenaGameManager : MonoBehaviour {
 		followObject = geek.transform;
 		float hitAngleInRadian = (MIN_HIT_ANGLE + firstHitAngle * MAX_HIT_ANGLE) * (Mathf.PI / 180);
 
-		gravity = 0.01f;
+		gravity = -0.01f;
 		geek.speedX = Mathf.Cos (hitAngleInRadian) * firstHitPower;
 		geek.speedY = Mathf.Sin (hitAngleInRadian) * firstHitPower;
 		// Debug.Log (geek.speedX + "`````" + geek.speedY);
