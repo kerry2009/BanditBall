@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{C508E6C4-DE00-EB11-F64F-26D9310B8671}</ProjectGuid>
+	<ProjectGuid>{C92CC9E4-1C36-C8D6-A054-728B25C3D7FC}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -47,9 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Configs\GameSettings.cs" />
-     <Compile Include="Assets\Configs\Global.cs" />
      <Compile Include="Assets\Configs\ItemConfig.cs" />
      <Compile Include="Assets\Scripts\ArenaGameManager.cs" />
+     <Compile Include="Assets\Scripts\Blood.cs" />
+     <Compile Include="Assets\Scripts\BloodManager.cs" />
      <Compile Include="Assets\Scripts\ChooseItemFrame.cs" />
      <Compile Include="Assets\Scripts\Cloud.cs" />
      <Compile Include="Assets\Scripts\CloudSpawner.cs" />
@@ -58,6 +59,7 @@
      <Compile Include="Assets\Scripts\EventTriggerExtension.cs" />
      <Compile Include="Assets\Scripts\FloorEnemySpawner.cs" />
      <Compile Include="Assets\Scripts\Geek.cs" />
+     <Compile Include="Assets\Scripts\Global.cs" />
      <Compile Include="Assets\Scripts\Hero.cs" />
      <Compile Include="Assets\Scripts\MovableGameObject.cs" />
      <Compile Include="Assets\Scripts\RangeSpawner.cs" />

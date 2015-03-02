@@ -12,7 +12,6 @@ public class RangeSpawner : MonoBehaviour {
 	public Transform leftEdge;
 	public Transform rightEdge;
 	public Transform gameObjectContainer;
-	public Transform bloodContainer;
 
 	protected List<Enemy> spawnedObjects;
 	protected List<Enemy> outScreenObjects;
@@ -71,7 +70,6 @@ public class RangeSpawner : MonoBehaviour {
 			// Instantiate a random enemy.
 			int randIndex = Random.Range(0, profabs.Length);
 			enemy = Instantiate(profabs[randIndex], p, zeroRotation)  as Enemy;
-			enemy.bloodContainer = bloodContainer;
 		}
 
 		enemy.gameObject.SetActive (true);

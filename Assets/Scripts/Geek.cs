@@ -30,9 +30,14 @@ public class Geek : MonoBehaviour {
 		Enemy enemy = other.gameObject.GetComponent<Enemy> ();
 
 		if (enemy && !enemy.isDead) {
-			enemy.isDead = true;
-			enemy.moveYSpeed = -0.1f;
-			enemy.moveXSpeed *= 0.5f;
+			enemy.OnEnemyDead();
+
+			if (enemy.gameObject.tag == "FloorEnemy") {
+				enemy.moveYSpeed = -0.1f;
+				enemy.moveXSpeed = gameManager.geek.speedX * 0.8f;
+			}
+
+			// lift up geek
 			speedY += 0.4f;
 		}
 	}

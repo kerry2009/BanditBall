@@ -21,8 +21,8 @@ public class ArenaGameManager : MonoBehaviour {
 	public Transform floor;
 	public Transform bgSky;
 	public Transform bgStars;
-	public Transform coloudMagr;
-	public Transform enemyMagr;
+	public Transform coloudSpawner;
+	public Transform enemySpawner;
 
 	public Transform followObject;
 
@@ -45,13 +45,12 @@ public class ArenaGameManager : MonoBehaviour {
 	public Transform skyVanishiEnd;
 	public bool resposeMouseClick;
 
-	// Use this for initialization
-	void Start () {
+	void Start() {
 		gravity = 0f;
 		resposeMouseClick = true;
 		lastCameraPos = new Vector2 (mainCamera.transform.position.x, mainCamera.transform.position.y);
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		if (resposeMouseClick) {
@@ -123,8 +122,8 @@ public class ArenaGameManager : MonoBehaviour {
 		moveBackGround (bgFront, offsetX, 0, offsetX * bgFrontScrollRatio, 0);
 		moveBackGround (bgSky, offsetX, offsetY, 0, 0);
 		moveBackGround (bgStars, offsetX, offsetY, offsetX, offsetY);
-		moveBackGround (coloudMagr, offsetX, 0, 0, 0);
-		moveBackGround (enemyMagr, offsetX, 0, 0, 0);
+		moveBackGround (coloudSpawner, offsetX, 0, 0, 0);
+		moveBackGround (enemySpawner, offsetX, 0, 0, 0);
 	}
 
 	private Vector3 transPos = new Vector3 ();
