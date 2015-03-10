@@ -52,10 +52,11 @@ public class Hero : MonoBehaviour {
 	}
 
 	public void hit() {
+
 		// air hit
 		if (geek.transform.position.y > hitDivLine.position.y) {
-			geek.speedX += 0.5f;
-			geek.speedY += -0.5f;
+			geek.speedX = 0.8f;
+			geek.speedY = -0.5f;
 			playAirHit();
 		} else { // ground hit
 			geek.speedX += 0.5f;
@@ -72,6 +73,7 @@ public class Hero : MonoBehaviour {
 	}
 
 	private void playGroundHit() {
+		gameManager.showFlashScreen ();
 		targetState = STATE_GROUNDHIT;
 		animator.Play ("HeroGroundHit");
 	}
@@ -82,6 +84,7 @@ public class Hero : MonoBehaviour {
 	}
 
 	public void resumeGeekMove() {
+		gameManager.showFlashScreen ();
 		geek.paused = false;
 	}
 

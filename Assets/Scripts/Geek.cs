@@ -32,7 +32,7 @@ public class Geek : MonoBehaviour {
 		if (enemy && !enemy.isDead) {
 			enemy.OnEnemyDead();
 
-			if (enemy.gameObject.tag == "FloorEnemy") {
+			if (enemy.gameObject.tag == "EnemyFloor") {
 				enemy.moveYSpeed = -0.1f;
 				enemy.moveXSpeed = gameManager.geek.speedX * 0.8f;
 			}

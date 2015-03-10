@@ -9,8 +9,8 @@ public class ArenaGameManager : MonoBehaviour {
 
 	public GameObject cameraRestrictCorner;
 
-	public Animator HUDAnimator;
 	public Animator HeroAnimator;
+	public Animator FlashScreen;
 
 	public bool gameOvered = false;
 	public int gameModePhrase = 0;
@@ -25,6 +25,9 @@ public class ArenaGameManager : MonoBehaviour {
 	public Transform enemySpawner;
 
 	public Transform followObject;
+
+	public PowerMeter powerMeter;
+	public AngleMeter angleMeter;
 
 	public float bgFrontScrollRatio = 1.0f;
 	public float bgMidScrollRatio = 0.5f;
@@ -49,6 +52,9 @@ public class ArenaGameManager : MonoBehaviour {
 		gravity = 0f;
 		resposeMouseClick = true;
 		lastCameraPos = new Vector2 (mainCamera.transform.position.x, mainCamera.transform.position.y);
+
+		powerMeter.CursorRun ();
+		powerMeter.easeIn ();
 	}
 
 	// Update is called once per frame
@@ -134,7 +140,7 @@ public class ArenaGameManager : MonoBehaviour {
 		transPos.z = bgTrans.position.z;
 
 		if (textureOffsetX != 0f || textureOffsetY != 0f) {
-			Material mat = bgTrans.renderer.material;
+			Material mat = bgTrans.GetComponent<Renderer>().material;
 			texturePos.x = mat.mainTextureOffset.x + textureOffsetX;
 			texturePos.y = mat.mainTextureOffset.y + textureOffsetY;
 			mat.mainTextureOffset = texturePos;
@@ -146,41 +152,29 @@ public class ArenaGameManager : MonoBehaviour {
 	private void selectedPower() {
 		gameModePhrase = 1;
 		
-		AnimatorStateInfo animState = HUDAnimator.GetCurrentAnimatorStateInfo (0);
-		float currentTimeScale = animState.normalizedTime - (int)(animState.normalizedTime);
+		powerMeter.StopRunCursor ();
+		firstHitPower = powerMeter.GetPercentage();
 		
-		firstHitPower = 0f;
-		if (currentTimeScale <= 0.5f) {
-			firstHitPower = currentTimeScale * 2;
-		} else {
-			firstHitPower = (1.0f - (currentTimeScale - 0.5f));
-		}
-
-		firstHitPower = 1.0f - firstHitPower;
-		HUDAnimator.SetInteger ("StartGamePhrase", gameModePhrase);
-		HeroAnimator.Play ("HeroReady");
+		powerMeter.easeOut ();
+		angleMeter.CursorRun ();
+		angleMeter.easeIn ();
 	}
 	
 	private void selectAngleAndHit() {
 		gameModePhrase = 2;
 		
-		AnimatorStateInfo animState = HUDAnimator.GetCurrentAnimatorStateInfo (0);
-		float currentTimeScale = animState.normalizedTime - (int)(animState.normalizedTime);
+		angleMeter.StopRunCursor ();
+		firstHitAngle = angleMeter.GetPercentage();
 		
-		firstHitAngle = 0f;
-		if (currentTimeScale <= 0.5f) {
-			firstHitAngle = currentTimeScale * 2;
-		} else {
-			firstHitAngle = (1.0f - (currentTimeScale - 0.5f));
-		}
+		angleMeter.easeOut ();
 		
-		HUDAnimator.SetInteger ("StartGamePhrase", gameModePhrase);
-		HeroAnimator.Play ("HeroStartHit");
-
 		hitGeekFirst ();
 	}
 
 	private void hitGeekFirst() {
+		FlashScreen.gameObject.SetActive (true);
+		showFlashScreen ();
+
 		followObject = geek.transform;
 		float hitAngleInRadian = (MIN_HIT_ANGLE + firstHitAngle * MAX_HIT_ANGLE) * (Mathf.PI / 180);
 
@@ -188,9 +182,14 @@ public class ArenaGameManager : MonoBehaviour {
 		geek.speedX = Mathf.Cos (hitAngleInRadian) * firstHitPower;
 		geek.speedY = Mathf.Sin (hitAngleInRadian) * firstHitPower;
 		// Debug.Log (geek.speedX + "`````" + geek.speedY);
+
 		geek.playFlyAnimation (1);
 	}
-	
+
+	public void showFlashScreen() {
+		FlashScreen.Play ("FlashScreen", 0, 0f);
+	}
+
 	private void onHit() {
 		hero.hit ();
 	}
