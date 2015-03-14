@@ -2,29 +2,27 @@
 using System.Collections;
 
 public class NaviMapController : MonoBehaviour {
-	private GameObject naviMapPanel;
-	private GameObject homePanel;
+	public GameObject naviMapPanel;
+	public GameObject heroPanel;
 
 	// Use this for initialization
 	void Start () {
-		naviMapPanel = gameObject.transform.Find ("NaviMap").gameObject;
-		homePanel = gameObject.transform.Find ("HomePanel").gameObject;
-		homePanel.SetActive (false);
+		heroPanel.SetActive (false);
 	}
 
 	public void OnClickArena () {
  		Application.LoadLevel ("GameArena");
 	}
 
-	public void OnClickHome () {
-		HomePanelController homeController = homePanel.GetComponent<HomePanelController>();
+	public void OnClickHero () {
+		HeroPanelController homeController = heroPanel.GetComponent<HeroPanelController>();
 		homeController.OpenPanel ();
 
 		HideNaviMap ();
 	}
 
 	public void OnClickForge () {
-		HomePanelController homeController = homePanel.GetComponent<HomePanelController>();
+		HeroPanelController homeController = heroPanel.GetComponent<HeroPanelController>();
 		homeController.OpenPanel ();
 
 		HideNaviMap ();

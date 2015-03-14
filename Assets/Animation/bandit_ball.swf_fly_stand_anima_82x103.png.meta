@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: b9fc7ac85b1bc444dabbcda1cd8a2e14
+timeCreated: 1426140627
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bandit_ball.swf_fly_stand_anima_82x103_0
+    21300002: bandit_ball.swf_fly_stand_anima_82x103_1
+    21300004: bandit_ball.swf_fly_stand_anima_82x103_2
+    21300006: bandit_ball.swf_fly_stand_anima_82x103_3
+    21300008: bandit_ball.swf_fly_stand_anima_82x103_4
+    21300010: bandit_ball.swf_fly_stand_anima_82x103_5
+    21300012: bandit_ball.swf_fly_stand_anima_82x103_6
+    21300014: bandit_ball.swf_fly_stand_anima_82x103_7
+    21300016: bandit_ball.swf_fly_stand_anima_82x103_8
+    21300018: bandit_ball.swf_fly_stand_anima_82x103_9
+    21300020: bandit_ball.swf_fly_stand_anima_82x103_10
+    21300022: bandit_ball.swf_fly_stand_anima_82x103_11
+    21300024: bandit_ball.swf_fly_stand_anima_82x103_12
+    21300026: bandit_ball.swf_fly_stand_anima_82x103_13
+    21300028: bandit_ball.swf_fly_stand_anima_82x103_14
+    21300030: bandit_ball.swf_fly_stand_anima_82x103_15
+    21300032: bandit_ball.swf_fly_stand_anima_82x103_16
+    21300034: bandit_ball.swf_fly_stand_anima_82x103_17
+    21300036: bandit_ball.swf_fly_stand_anima_82x103_18
+    21300038: bandit_ball.swf_fly_stand_anima_82x103_19
+    21300040: bandit_ball.swf_fly_stand_anima_82x103_20
+    21300042: bandit_ball.swf_fly_stand_anima_82x103_21
+    21300044: bandit_ball.swf_fly_stand_anima_82x103_22
+    21300046: bandit_ball.swf_fly_stand_anima_82x103_23
+    21300048: bandit_ball.swf_fly_stand_anima_82x103_24
+    21300050: bandit_ball.swf_fly_stand_anima_82x103_25
+    21300052: bandit_ball.swf_fly_stand_anima_82x103_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bandit_ball.swf_fly_stand_anima_82x103_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 921
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_22
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 818
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 715
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bandit_ball.swf_fly_stand_anima_82x103_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 715
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

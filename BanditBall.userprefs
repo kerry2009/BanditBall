@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\AudioRepeater\Assets\Scripts\MicrophoneRepeat.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Shop\ShopItem.cs">
     <Files>
-      <File FileName="..\AudioRepeater\Assets\Scripts\MicrophoneRepeat.js" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\Shop\ShopItem.cs" Line="15" Column="23" />
+      <File FileName="Assets\UI\HeroPanelController.cs" Line="29" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

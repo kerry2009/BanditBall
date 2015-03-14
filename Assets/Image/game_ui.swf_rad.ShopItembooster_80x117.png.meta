@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: f236240e2a4750e479372c2fe8295506
+timeCreated: 1426168257
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: game_ui.swf_rad.ShopItembooster_80x117_0
+    21300002: game_ui.swf_rad.ShopItembooster_80x117_1
+    21300004: game_ui.swf_rad.ShopItembooster_80x117_2
+    21300006: game_ui.swf_rad.ShopItembooster_80x117_3
+    21300008: game_ui.swf_rad.ShopItembooster_80x117_4
+    21300010: game_ui.swf_rad.ShopItembooster_80x117_5
+    21300012: game_ui.swf_rad.ShopItembooster_80x117_6
+    21300014: game_ui.swf_rad.ShopItembooster_80x117_7
+    21300016: game_ui.swf_rad.ShopItembooster_80x117_8
+    21300018: game_ui.swf_rad.ShopItembooster_80x117_9
+    21300020: game_ui.swf_rad.ShopItembooster_80x117_10
+    21300022: game_ui.swf_rad.ShopItembooster_80x117_11
+    21300024: game_ui.swf_rad.ShopItembooster_80x117_12
+    21300026: game_ui.swf_rad.ShopItembooster_80x117_13
+    21300028: game_ui.swf_rad.ShopItembooster_80x117_14
+    21300030: game_ui.swf_rad.ShopItembooster_80x117_15
+    21300032: game_ui.swf_rad.ShopItembooster_80x117_16
+    21300034: game_ui.swf_rad.ShopItembooster_80x117_17
+    21300036: game_ui.swf_rad.ShopItembooster_80x117_18
+    21300038: game_ui.swf_rad.ShopItembooster_80x117_19
+    21300040: game_ui.swf_rad.ShopItembooster_80x117_20
+    21300042: game_ui.swf_rad.ShopItembooster_80x117_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: game_ui.swf_rad.ShopItembooster_80x117_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 395
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 395
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 395
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 395
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 395
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 278
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 278
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 278
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 278
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 161
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 44
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_ui.swf_rad.ShopItembooster_80x117_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 44
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

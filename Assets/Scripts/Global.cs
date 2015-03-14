@@ -7,8 +7,8 @@ public class Global : MonoBehaviour {
 	public static GameSettings gameSettings {
 		get {
 			if (_gs == null) {
-				GameObject go = Resources.Load("GameConfigure") as GameObject;
-				_gs = go.GetComponent<GameSettings>();
+				_gs = new GameSettings();
+				_gs.initGameSettings();
 			}
 			return _gs;
 		}
